@@ -1,0 +1,10 @@
+[2025-04-20 12:00:00] ERROR: First database failure
+[2025-04-20 12:03:00] ERROR: Another database crash
+[2025-04-20 23:55:00] ERROR - System crashed unexpectedly.
+[2025-04-20 23:59:00] ERROR - Disk overload detected.
+[2025-04-20 23:59:04] ERROR - Memory threshold crossed.
+[2025-04-21 10:00:00] ERROR - CPU overload.
+[2025-04-21 10:03:00] ERROR - Disk almost full.
+[2025-04-21 10:10:00] INFO - System running smoothly.
+[2025-04-21 12:00:00] ERROR - Something broke
+[2025-04-21 12:03:00] ERROR - Something broke again

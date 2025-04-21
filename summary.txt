@@ -1,0 +1,1 @@
+ [2025-04-20 11:00:01:01] INFO: Server started on port 3000. [20 25-April-20] WARNING: WARNING: High memory usage detected. [22] ERROR: Failed to connect to database. Attempted to connect successfully .

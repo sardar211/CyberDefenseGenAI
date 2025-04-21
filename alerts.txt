@@ -1,0 +1,9 @@
+[ALERT] ERROR anomaly detected: 2025-04-20 12:00:00 and 2025-04-20 12:03:00 occurred within 5 minutes.
+[ALERT] ERROR anomaly detected: 2025-04-20 23:55:00 and 2025-04-20 23:59:00 occurred within 5 minutes.
+[ALERT] ERROR anomaly detected: 2025-04-20 23:59:00 and 2025-04-20 23:59:04 occurred within 5 minutes.
+[ALERT] ERROR anomaly detected: 2025-04-21 10:00:00 and 2025-04-21 10:03:00 occurred within 5 minutes.
+[ALERT] ERROR anomaly detected: 2025-04-20 12:00:00 and 2025-04-20 12:03:00 occurred within 5 minutes.
+[ALERT] ERROR anomaly detected: 2025-04-20 23:55:00 and 2025-04-20 23:59:00 occurred within 5 minutes.
+[ALERT] ERROR anomaly detected: 2025-04-20 23:59:00 and 2025-04-20 23:59:04 occurred within 5 minutes.
+[ALERT] ERROR anomaly detected: 2025-04-21 10:00:00 and 2025-04-21 10:03:00 occurred within 5 minutes.
+[ALERT] ERROR anomaly detected: 2025-04-21 12:00:00 and 2025-04-21 12:03:00 occurred within 5 minutes.
